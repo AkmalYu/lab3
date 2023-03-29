@@ -1,3 +1,6 @@
 # lab3
 
-assignment in the discipline "Mobile application development"
+Assignment in the discipline "Mobile application development"
+
+## Screenshot
+<img src="https://disk.yandex.ru/i/cTnlJPJ8fQFXxA" width="300">
